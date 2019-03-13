@@ -1,4 +1,4 @@
-# The Resource VAult
+# The Resource Vasult
 
 Repository where I place everything I find that can help me build side projects / startups.
 
