@@ -12,6 +12,11 @@ Repository where I place everything I find that can help me build side projects 
 - [Undraw](https://undraw.co/illustrations) - Free Pack of illustrations, purple/royal blue themed.
 - [Absurd](https://absurd.design/) - Surrealist illustrations for landing pages.
 
+### Tools
+
+- [App launch list](https://www.producthunt.com/posts/app-launch-checklist) - Checklist before doing your app launch.
+- [Launchaco](https://www.launchaco.com/?ref=producthunt) - Page that designs your landing page and your logo.
+
 # Tech
 
 ## Educational
@@ -26,6 +31,7 @@ Repository where I place everything I find that can help me build side projects 
 # Business & Startups
 
 - [NoCode](https://www.nocode.tech/) - Resources for non-tech entrepeneurs.
+- [StartupLaunchList](https://startuplaunchlist.com/?ref=producthunt) - Articles to read for launching a startup.
 
 # Contributing
 
